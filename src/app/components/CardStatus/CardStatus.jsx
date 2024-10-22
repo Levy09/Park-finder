@@ -20,8 +20,8 @@ export default function CardStatus() {
                <CarSimple size={32} />
                <p className="font-black text-xl">SVD2010</p>
                 </div>
-              <div className=" gap-2 flex justify-center">
-                E: &nbsp; <strong>00:00:00</strong>   S: &nbsp; <strong>00:00:00</strong>
+              <div className=" gap-4 flex justify-center">
+                E:<strong>00:00:00</strong>   S:<strong>00:00:00</strong>
               </div>
         </div>
 
